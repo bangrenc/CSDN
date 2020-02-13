@@ -4,8 +4,8 @@ __author__ = 'Byron'
 import requests
 import re
 
-username = '834392125@qq.com'
-password = 'Cbr19900922'
+username = 'XXX'
+password = 'XXX'
 
 session = requests.Session()
 
